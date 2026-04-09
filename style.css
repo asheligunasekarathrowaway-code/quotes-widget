@@ -16,7 +16,7 @@ body {
   color: #37352F;
   text-align: center;
   border: 1px solid #37352F; /* sharp edges */
-  position: relative; /* for icon positioning */
+  position: relative; /* for refresh button positioning */
 }
 
 #quote-text {
